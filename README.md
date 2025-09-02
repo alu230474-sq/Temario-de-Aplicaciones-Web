@@ -4,6 +4,7 @@ Accede a GitHub y crea un repositorio llamado Temario de Aplicaciones Web con el
 # Propósito de Aprendizaje 1: Comprender los fundamentos del desarrollo de aplicaciones web.  
 # 1.-Introducción al desarrollo web 
 El desarrollo web nació de la mano de Tim Berners-Lee en 1989 en el CERN, quien creó la World Wide Web, el primer navegador y el primer sitio web en 1991. La evolución pasó por la Web 1.0 (estática y basada en HTML básico), la Web 2.0 (interactividad, CSS, JavaScript y la consolidación de la colaboración), y la Web 3.0 (más dinámica, con inteligencia artificial y personalización).  
+
 Las aplicaciones web estáticas entregan contenido fijo sin interacciones complejas, mientras que las dinámicas generan contenido personalizado y responden a usuarios en tiempo real. Las Single-Page Applications (SPA) ofrecen una experiencia fluida cargando el contenido dinámicamente sin recargar la página entera, y las Progressive Web Apps (PWA) combinan características web y nativas, funcionando sin conexión, ofreciendo notificaciones push y siendo más rápidas.  
  
 # 2.Arquitectura de aplicaciones web  
@@ -14,8 +15,6 @@ La arquitectura de tres capas es un patrón de diseño de software que organiza 
 REST es un estilo arquitectónico para crear APIs, mientras que el diseño API-First es un enfoque de desarrollo que prioriza el diseño de la API antes de escribir código.  
 
 # 3. -Lenguajes y tecnologías fundamentales  
-HTML, CSS, JavaScript, PHP y MySQL son tecnologías fundamentales para el desarrollo web que trabajan en conjunto: HTML estructura el contenido, CSS lo estiliza y JavaScript añade interactividad en el lado del cliente; mientras que PHP ejecuta código del servidor y MySQL gestiona bases de datos, creando sitios web dinámicos y funcionales.  
-
 HTML es el lenguaje fundamental para crear páginas web. Su propósito es estructurar y dar formato al contenido de un sitio web, definiendo elementos como párrafos, imágenes, enlaces, videos y tablas, para que un navegador web pueda mostrarlos correctamente.
 
 CSS es un lenguaje que define la apariencia de los elementos HTML en una página web, controlando su diseño visual, como colores, tipografías, márgenes y el diseño general de la página.
