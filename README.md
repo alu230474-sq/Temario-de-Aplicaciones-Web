@@ -61,17 +61,24 @@ La autenticación verifica que una persona o sistema es quien dice ser, usando f
 
 # Propósito de Aprendizaje 3: Implementar y desplegar una aplicación web funcional  
 # 1. -Integración de frontend y backend  
-Interfaz de usuario Frontend  
-Manejo de API  
-Proceso de Solicitud y Respuesta de Backend  
+La interfaz de usuario (UI) de frontend es la parte de un sitio web o aplicación con la que los usuarios interactúan directamente, todo lo que se ve y experimenta en el lado del cliente, como menús, botones, imágenes y diseño.  
+
+La Application Programming Interface (API) es un conjunto de patrones que forman parte de una interfaz que permite la creación de plataformas de una forma más sencilla y práctica para desarrolladores.  
+
+Los clientes envían solicitudes a los servidores, especificando acciones y datos. Respuestas: Los servidores procesan las solicitudes y envían las respuestas correspondientes, incluyendo códigos de estado y datos . Al dominar estos fundamentos, los desarrolladores backend pueden crear aplicaciones web eficientes y fiables.  
 
 # 2.- Almacenamiento en Servidor  
-Tipos de servidores   
-Servidores y servicios de hosting   
-Proveedores de Servicios de Almacenamiento  
+Los tipos de servidor se pueden clasificar por su función, como los servidores web, que alojan sitios web; servidores de base de datos, que almacenan información; servidores de correo, que gestionan emails; o servidores de archivos, que comparten documentos. También pueden clasificarse por su arquitectura, incluyendo servidores dedicados, que tienen recursos exclusivos; servidores compartidos, que comparten recursos entre varios usuarios; y servidores virtuales, que emulan múltiples servidores físicos en uno solo.  
+
+Un servidor es el equipo físico o virtual que aloja los datos y archivos de un sitio web, mientras que un servicio de hosting o alojamiento es el alquiler de un espacio y los recursos de ese servidor para publicar el sitio en Internet.  
+
+Los principales proveedores de servicios de almacenamiento, tanto personales como empresariales, incluyen a gigantes como Google Drive (Google Workspace), Microsoft OneDrive y Dropbox, además de otras opciones como pCloud, iCloud, Box y MEGA, cada uno con características y enfoques diferentes, como la integración con sus suites de productos, el enfoque en la seguridad o la colaboración para empresas.   
 
 # 3.-Optimización y rendimiento  
-Optimización de recursos (imágenes, scripts)  
-Despliegue de aplicaciones web  
-CI/CD básico  
-Documentación del proyecto  
+La optimización de recursos (imágenes y scripts) es el proceso de hacerlos lo más pequeños y eficientes posible para mejorar la velocidad y el rendimiento de un sitio web. Las técnicas incluyen la compresión de imágenes, el uso de formatos modernos como WebP, la carga diferida (lazy loading), la minificación y concatenación de scripts, y el uso de CDNs para distribuir el contenido.  
+  
+El despliegue de aplicaciones web es el proceso de transferir y configurar una aplicación desde un entorno de desarrollo a un entorno de producción, haciéndola pública y accesible a los usuarios finales. Este proceso incluye la instalación y configuración de servidores, bases de datos, y la implementación del código, y es una etapa crucial del ciclo de vida del desarrollo de software que requiere un plan bien estructurado para asegurar la estabilidad y escalabilidad de la aplicación.  
+
+CI/CD (Integración Continua y Despliegue/Entrega Continua) es un conjunto de prácticas de desarrollo de software que automatizan la integración y el despliegue de código, permitiendo lanzamientos de software más rápidos y confiables al reducir tareas manuales y probar automáticamente los cambios.  
+
+La documentación de proyectos es la colección de todos los documentos y materiales escritos que describen los objetivos, alcance, presupuesto, riesgos y metodologías de un proyecto. Su propósito es asegurar la transparencia, facilitar la comunicación y la toma de decisiones informadas, y servir como registro histórico para el seguimiento del proyecto a lo largo de su ciclo de vida.  
