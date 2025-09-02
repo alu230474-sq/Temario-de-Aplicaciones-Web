@@ -3,15 +3,16 @@ Accede a GitHub y crea un repositorio llamado Temario de Aplicaciones Web con el
 
 # Propósito de Aprendizaje 1: Comprender los fundamentos del desarrollo de aplicaciones web.  
 # 1.-Introducción al desarrollo web 
-
-![Uploading image.png…]()  
-
-Historia y evolución del desarrollo web  
-Tipos de aplicaciones web (estáticas, dinámicas, SPA, PWA)  
+El desarrollo web nació de la mano de Tim Berners-Lee en 1989 en el CERN, quien creó la World Wide Web, el primer navegador y el primer sitio web en 1991. La evolución pasó por la Web 1.0 (estática y basada en HTML básico), la Web 2.0 (interactividad, CSS, JavaScript y la consolidación de la colaboración), y la Web 3.0 (más dinámica, con inteligencia artificial y personalización).  
+Las aplicaciones web estáticas entregan contenido fijo sin interacciones complejas, mientras que las dinámicas generan contenido personalizado y responden a usuarios en tiempo real. Las Single-Page Applications (SPA) ofrecen una experiencia fluida cargando el contenido dinámicamente sin recargar la página entera, y las Progressive Web Apps (PWA) combinan características web y nativas, funcionando sin conexión, ofreciendo notificaciones push y siendo más rápidas.  
+ 
 # 2.Arquitectura de aplicaciones web  
-Cliente-Servidor  
-Arquitectura de tres capas (presentación, lógica, datos)  
-REST y API-first design  
+En informática, el modelo cliente-servidor es un sistema de comunicación donde un dispositivo o programa (el cliente) inicia una solicitud de un servicio o recurso, y un dispositivo o programa potente (el servidor) procesa esa solicitud y devuelve la respuesta al cliente.  
+
+La arquitectura de tres capas es un patrón de diseño de software que organiza una aplicación en tres niveles lógicos e interconectados: la capa de presentación (la interfaz de usuario), la capa de lógica de aplicación (o de negocio), y la capa de acceso a datos. Este enfoque busca la separación de responsabilidades para mejorar la escalabilidad, el mantenimiento y la flexibilidad de la aplicación.  
+
+REST es un estilo arquitectónico para crear APIs, mientras que el diseño API-First es un enfoque de desarrollo que prioriza el diseño de la API antes de escribir código.  
+
 # 3. -Lenguajes y tecnologías fundamentales  
 HTML, CSS, JavaScript, PHP, MySQL  
 # 4.-Control de versiones  
