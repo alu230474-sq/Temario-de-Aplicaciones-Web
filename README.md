@@ -14,7 +14,18 @@ La arquitectura de tres capas es un patrón de diseño de software que organiza 
 REST es un estilo arquitectónico para crear APIs, mientras que el diseño API-First es un enfoque de desarrollo que prioriza el diseño de la API antes de escribir código.  
 
 # 3. -Lenguajes y tecnologías fundamentales  
-HTML, CSS, JavaScript, PHP, MySQL  
+HTML, CSS, JavaScript, PHP y MySQL son tecnologías fundamentales para el desarrollo web que trabajan en conjunto: HTML estructura el contenido, CSS lo estiliza y JavaScript añade interactividad en el lado del cliente; mientras que PHP ejecuta código del servidor y MySQL gestiona bases de datos, creando sitios web dinámicos y funcionales.  
+
+HTML es el lenguaje fundamental para crear páginas web. Su propósito es estructurar y dar formato al contenido de un sitio web, definiendo elementos como párrafos, imágenes, enlaces, videos y tablas, para que un navegador web pueda mostrarlos correctamente.
+
+CSS es un lenguaje que define la apariencia de los elementos HTML en una página web, controlando su diseño visual, como colores, tipografías, márgenes y el diseño general de la página.
+
+JavaScript (JS) es un lenguaje de programación versátil usado principalmente para dar interactividad y contenido dinámico a las páginas web.
+
+PHP es un lenguaje de programación de código abierto del lado del servidor, utilizado principalmente para crear sitios web dinámicos y aplicaciones web.
+
+MySQL es un Sistema de Gestión de Bases de Datos Relacionales de código abierto que permite almacenar, gestionar y consultar datos organizados en tablas de filas y columnas, utilizando el Lenguaje de Consulta Estructurado (SQL).
+
 # 4.-Control de versiones  
 Git y GitHub  
 Flujo de trabajo con ramas (branching, merge, pull requests)  
