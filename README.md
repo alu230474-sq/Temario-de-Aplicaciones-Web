@@ -26,8 +26,9 @@ PHP es un lenguaje de programación de código abierto del lado del servidor, ut
 MySQL es un Sistema de Gestión de Bases de Datos Relacionales de código abierto que permite almacenar, gestionar y consultar datos organizados en tablas de filas y columnas, utilizando el Lenguaje de Consulta Estructurado (SQL).
 
 # 4.-Control de versiones  
-Git y GitHub  
-Flujo de trabajo con ramas (branching, merge, pull requests)  
+Git es un sistema de control de versiones, una herramienta que permite rastrear cambios y gestionar el historial de un proyecto, funcionando de manera local en tu computadora. Por otro lado, GitHub es una plataforma web que utiliza Git para ofrecer un servicio de alojamiento de repositorios en la nube, facilitando la colaboración en equipo, el trabajo remoto y proporcionando herramientas de gestión de proyectos, como la gestión de incidencias y la revisión de código.  
+
+Un flujo de trabajo con ramas, merge y pull requests es una práctica común en el desarrollo de software con Git donde los desarrolladores crean ramas separadas (branches) para trabajar en nuevas funciones o correcciones, hacen "pull requests" para proponer que sus cambios se unan (merge) a la rama principal, permitiendo la revisión de código y la colaboración antes de que se integren los cambios en el código base principal.  
 
 # Propósito de Aprendizaje 2: Desarrollar componentes y funcionalidades de una aplicación web  
 # 1.-Diseño e implementación del frontend  
