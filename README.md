@@ -32,12 +32,21 @@ Un flujo de trabajo con ramas, merge y pull requests es una práctica común en 
 
 # Propósito de Aprendizaje 2: Desarrollar componentes y funcionalidades de una aplicación web  
 # 1.-Diseño e implementación del frontend  
-Maquetación/Wireframe/Mockup  
-API  
+Una maquetación (o wireframe) es el esqueleto de un diseño que se enfoca en la estructura y el flujo, mientras que un mockup es una representación visual más detallada y estática que incluye la apariencia estética como colores, tipografía e imágenes.  
+
+Una API (interfaz de programación de aplicaciones) es un conjunto de reglas y definiciones que permite que dos aplicaciones de software diferentes se comuniquen entre sí, actuando como un puente para el intercambio de datos y servicios. Permite a las aplicaciones enviar y recibir información de manera estandarizada, facilitando la creación de aplicaciones más complejas al no tener que desarrollar todas sus funcionalidades desde cero.  
+
 # 2.-Diseño e implementación del backend  
-Servidor  
-Manejo de peticiones y respuestas HTTP  
-Conexión a bases de datos (MySQL, PostgreSQL, MongoDB)  
+Un servidor es un ordenador potente (hardware) o un programa (software) que proporciona recursos, servicios y datos a otras computadoras o dispositivos, conocidos como "clientes", a través de una red como Internet.  
+ 
+El manejo de peticiones y respuestas HTTP implica que un cliente (como un navegador web) envía una petición a un servidor, que luego responde. Las peticiones incluyen un método HTTP (GET, POST, etc.) y la dirección del recurso, mientras que las respuestas contienen un código de estado (como 200 OK o 404 No encontrado) y el recurso solicitado, si lo hay, o un mensaje de error. Este intercambio es la base del modelo cliente-servidor en la web.  
+ 
+Para conectarte a una base de datos MySQL necesitas: el nombre del servidor, el puerto, el nombre de usuario y la contraseña de la base de datos, y la capacidad de acceder al esquema y las tablas deseadas.  
+
+Para conectarte a una base de datos PostgreSQL, utiliza el cliente de línea de comandos psql ingresando el comando psql -U tu_usuario -d tu_base_de_datos o una herramienta gráfica como DBeaver o pgAdmin, introduciendo los detalles de la conexión: nombre de host, número de puerto, nombre de usuario y contraseña.  
+
+En la Interfaz web de MongoDB Atlas, busque el clúster al que conectarse y haga clic en el botón “Conectar“ junto a su nombre. En la siguiente pantalla, seleccione el método que está utilizando para conectarse a MongoDB y se le proporcionará una cadena de conexión adecuada para su clúster.  
+
 # 3.-Bases de datos  
  Modelado de datos y relaciones  
 ORM (Object Relational Mapping)  
