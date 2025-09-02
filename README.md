@@ -1,6 +1,6 @@
 # Temario-de-Aplicaciones-Web
 Accede a GitHub y crea un repositorio llamado Temario de Aplicaciones Web con el archivo README en donde investigarás con imágenes los temas propuestos.
-![Uploading image.png…]()
+<img width="212" height="144" alt="image" src="https://github.com/user-attachments/assets/c7fec361-1847-4bf8-81c9-611b7e442c37" />
 
 # Propósito de Aprendizaje 1: Comprender los fundamentos del desarrollo de aplicaciones web.  
 # 1.-Introducción al desarrollo web 
@@ -30,6 +30,7 @@ MySQL es un Sistema de Gestión de Bases de Datos Relacionales de código abiert
 Git es un sistema de control de versiones, una herramienta que permite rastrear cambios y gestionar el historial de un proyecto, funcionando de manera local en tu computadora. Por otro lado, GitHub es una plataforma web que utiliza Git para ofrecer un servicio de alojamiento de repositorios en la nube, facilitando la colaboración en equipo, el trabajo remoto y proporcionando herramientas de gestión de proyectos, como la gestión de incidencias y la revisión de código.  
 
 Un flujo de trabajo con ramas, merge y pull requests es una práctica común en el desarrollo de software con Git donde los desarrolladores crean ramas separadas (branches) para trabajar en nuevas funciones o correcciones, hacen "pull requests" para proponer que sus cambios se unan (merge) a la rama principal, permitiendo la revisión de código y la colaboración antes de que se integren los cambios en el código base principal.  
+![Uploading image.png…]()
 
 # Propósito de Aprendizaje 2: Desarrollar componentes y funcionalidades de una aplicación web  
 # 1.-Diseño e implementación del frontend  
@@ -59,6 +60,7 @@ CRUD (Create, Read, Update, Delete) es un acrónimo que describe las cuatro oper
 La validación en el lado del cliente es una verificación inicial y una característica importante para garantizar una buena experiencia de usuario; mediante la detección de datos no válidos en el lado del cliente, el usuario puede corregirlos de inmediato.  
 
 La autenticación verifica que una persona o sistema es quien dice ser, usando factores como contraseñas o biometría, mientras que la autorización determina a qué recursos y con qué nivel de acceso tiene permiso ese usuario una vez que su identidad ha sido confirmada.   
+![Uploading image.png…]()
 
 # Propósito de Aprendizaje 3: Implementar y desplegar una aplicación web funcional  
 # 1. -Integración de frontend y backend  
