@@ -48,12 +48,16 @@ Para conectarte a una base de datos PostgreSQL, utiliza el cliente de línea de 
 En la Interfaz web de MongoDB Atlas, busque el clúster al que conectarse y haga clic en el botón “Conectar“ junto a su nombre. En la siguiente pantalla, seleccione el método que está utilizando para conectarse a MongoDB y se le proporcionará una cadena de conexión adecuada para su clúster.  
 
 # 3.-Bases de datos  
- Modelado de datos y relaciones  
-ORM (Object Relational Mapping)  
-CRUD desde el backend  
+ El modelado de datos es el proceso de crear una representación visual de los datos y sus interconexiones, que sirve para estructurar, almacenar y acceder a la información de manera clara y eficiente.  
+ 
+ Los ORMs (Object Relational Mappings) o Mapeadores de Objetos Relacionales son una alternativa frente al SQL tradicional de las bases de datos, porque a través de este modelo de información no tendrás que seguir utilizando el SQL.  
+
+CRUD (Create, Read, Update, Delete) es un acrónimo que describe las cuatro operaciones fundamentales de persistencia de datos: Crear (añadir nuevos datos), Leer (recuperar o ver datos existentes), Actualizar (modificar datos existentes) y Eliminar (borrar datos).  
+
 # 4.-Seguridad básica en aplicaciones web  
-Validación de formularios  
-Autenticación y autorización   
+La validación en el lado del cliente es una verificación inicial y una característica importante para garantizar una buena experiencia de usuario; mediante la detección de datos no válidos en el lado del cliente, el usuario puede corregirlos de inmediato.  
+
+La autenticación verifica que una persona o sistema es quien dice ser, usando factores como contraseñas o biometría, mientras que la autorización determina a qué recursos y con qué nivel de acceso tiene permiso ese usuario una vez que su identidad ha sido confirmada.   
 
 # Propósito de Aprendizaje 3: Implementar y desplegar una aplicación web funcional  
 # 1. -Integración de frontend y backend  
